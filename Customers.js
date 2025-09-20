@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-const API_URL = "https://bakebizz-backend.onrender.com"; // replace with your Render backend URL
+const API_URL = "https://bakebiz.onrender.com"; // 
 
 function Customers() {
   const [customers, setCustomers] = useState([]);
